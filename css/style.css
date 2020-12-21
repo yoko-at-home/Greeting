@@ -280,14 +280,14 @@
   width:100%;
   -o-object-fit:cover;
   object-fit:cover}
-  @media(min-width:376px){
+  @media(min-width:374px){
     .bg-mobile{
     display:none;
     }
   }
   .bg-video{
 display:none;}
-  @media(min-width:376px){
+  @media(min-width:374px){
   .bg-video{
   display:block;
   position:absolute;
