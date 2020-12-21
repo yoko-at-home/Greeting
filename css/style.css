@@ -869,7 +869,7 @@ display:none;}
   transform:translate(-50%, -50%);
   list-style:none;
   width:100%}
-  @media(min-width:376px){
+  @media(min-width:374px){
     .navigation__list{position:absolute;
       text-align:center!important;
       top: 40%;
@@ -902,6 +902,8 @@ display:none;}
   -webkit-transform:translateX(1rem);
   transform:translateX(1rem)
 }
+
+
   .navigation__checkbox:checked ~ .navigation__background{-webkit-transform:scale(80);
   transform:scale(80)}
   .navigation__checkbox:checked ~ .navigation__nav{opacity:1;
